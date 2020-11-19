@@ -1,0 +1,20 @@
+body {
+    background-color: #CBE2F6;
+    text-align: center;
+}
+
+#navigation {
+    margin-bottom: 1em;
+}
+
+#navigation a {
+    background-color: white;
+    border-radius: 0px 0px 10px 10px;
+    padding: 5px;
+    margin: 0px 5px;
+    font-size: 1.2em;
+}
+
+img {
+    border-radius:20px;
+}
